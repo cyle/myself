@@ -14,8 +14,8 @@ I built it.
 
 ## Technology Used
 
-	- PHP
-	- MySQL
+- PHP
+- MySQL
 
 ## Link to Source Code
 

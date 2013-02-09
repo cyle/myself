@@ -12,9 +12,9 @@ I wrote it, based on the D&D 4e books.
 
 ## Technology Used
 
-	- good old HTML
-	- Javascript
-	- Google Web Fonts
+- good old HTML
+- Javascript
+- Google Web Fonts
 
 ## Link to the Project Itself
 

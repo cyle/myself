@@ -12,8 +12,8 @@ What I did goes here, at least.
 
 ## Technology Used
 
-	- what I used
-	- maybe even what I *could've* used
+- what I used
+- maybe even what I *could've* used
 
 ## Link to Source Code and/or the Project Itself
 

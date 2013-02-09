@@ -12,12 +12,12 @@ I built it.
 
 ## Technology Used
 
-	- lighttpd
-	- PHP
-	- MongoDB
-	- jQuery
-	- [Foundation](http://foundation.zurb.com/) framework
-	- SimpleSAMLphp
+- lighttpd
+- PHP
+- MongoDB
+- jQuery
+- [Foundation](http://foundation.zurb.com/) framework
+- SimpleSAMLphp
 
 ## Link to the Project Itself
 

@@ -14,9 +14,9 @@ I built it.
 
 ## Technology Used
 
-	- PHP
-	- jQuery
-	- HTML5 Canvas element
+- PHP
+- jQuery
+- HTML5 Canvas element
 
 ## Link to Source Code
 

@@ -12,9 +12,9 @@ I built it from scratch.
 
 ## Technology Used
 
-	- PHP
-	- MySQL
-	- HTML
+- PHP
+- MySQL
+- HTML
 
 ## Link to the Project Itself
 

@@ -14,8 +14,8 @@ I built it and iterated features into it for awhile.
 
 ## Technology Used
 
-	- PHP
-	- MySQL
+- PHP
+- MySQL
 
 ## Link to Source Code and/or the Project Itself
 

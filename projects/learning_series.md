@@ -14,9 +14,9 @@ I wrote it! I also taught two workshops, and continue to work on a more comprehe
 
 ## Technology Used
 
-	- good old HTML
-	- git
-	- Keynote
+- good old HTML
+- git
+- Keynote
 
 ## Link to Source Code and the Project Itself
 

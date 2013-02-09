@@ -14,9 +14,9 @@ I'm writing it and editing it, and I have help from friends who are reading the 
 
 ## Technology Used
 
-	- good old HTML
-	- writing words
-	- Ruby (to help make the actual book format)
+- good old HTML
+- writing words
+- Ruby (to help make the actual book format)
 
 ## Link to Source Code and/or the Project Itself
 

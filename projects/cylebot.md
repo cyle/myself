@@ -16,10 +16,10 @@ I made him, I feed him, I continue developing new features.
 
 ## Technology Used
 
-	- mIRC scripts, originally
-	- node.js
-	- MongoDB (for knowledge storage)
-	- PHP (for some backend functions)
+- mIRC scripts, originally
+- node.js
+- MongoDB (for knowledge storage)
+- PHP (for some backend functions)
 
 ## Link to Source Code
 

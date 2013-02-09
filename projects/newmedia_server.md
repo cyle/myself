@@ -12,15 +12,15 @@ I built it, and continue to maintain and support it.
 
 ## Technology Used
 
-	- PHP
-	- Bash scripting
-	- Python
-	- Ruby (and Ruby on Rails)
-	- Perl
-	- Apache
-	- MySQL
-	- Active Directory
-	- Samba
+- PHP
+- Bash scripting
+- Python
+- Ruby (and Ruby on Rails)
+- Perl
+- Apache
+- MySQL
+- Active Directory
+- Samba
 
 ## Link to the Project Itself
 

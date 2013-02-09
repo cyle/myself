@@ -16,13 +16,13 @@ Built the servers, I still maintain and administrate them, scaling them out when
 
 ## Technology Used
 
-	- Wordpress and plugins and themes
-	- Debian, eventually moving to Ubuntu
-	- Active Directory
-	- SimpleSAMLphp
+- Wordpress and plugins and themes
+- Debian, eventually moving to Ubuntu
+- Active Directory
+- SimpleSAMLphp
 
 ## Link to the Project Itself
 
-	- http://word.emerson.edu/
-	- http://press.emerson.edu/
-	- http://web.emerson.edu/
+- http://word.emerson.edu/
+- http://press.emerson.edu/
+- http://web.emerson.edu/

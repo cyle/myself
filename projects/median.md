@@ -16,13 +16,13 @@ I built it, administer it, support it, and continue to iterate new versions base
 
 ## Technology Used
 
-	- lighttpd
-	- MongoDB (previously Microsoft SQL)
-	- PHP
-	- node.js
-	- Ubuntu (previously Debian)
-	- git
-	- NFS
+- lighttpd
+- MongoDB (previously Microsoft SQL)
+- PHP
+- node.js
+- Ubuntu (previously Debian)
+- git
+- NFS
 
 ## Link to the Project Itself
 

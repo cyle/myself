@@ -14,13 +14,13 @@ I built it and continue to coordinate the rollout.
 
 ## Technology Used
 
-	- lighttpd
-	- PHP
-	- MySQL
-	- Flat-file feed caching
-	- HTML5 / jQuery
-	- [Foundation](http://foundation.zurb.com/) framework
-	- my Nagios API
+- lighttpd
+- PHP
+- MySQL
+- Flat-file feed caching
+- HTML5 / jQuery
+- [Foundation](http://foundation.zurb.com/) framework
+- my Nagios API
 
 ## Link to Source Code and/or the Project Itself
 

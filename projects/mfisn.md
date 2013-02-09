@@ -12,9 +12,9 @@ Developer. Primary site design is originally by siik.
 
 ## Technology Used
 
-	- PHP
-	- MySQL
-	- Apache
+- PHP
+- MySQL
+- Apache
 
 ## Link to the Project Itself
 

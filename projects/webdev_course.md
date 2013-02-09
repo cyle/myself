@@ -12,8 +12,8 @@ I'm writing it!
 
 ## Technology Used
 
-	- Canvas
-	- good old HTML
+- Canvas
+- good old HTML
 
 ## Link to Source Code and/or the Project Itself
 

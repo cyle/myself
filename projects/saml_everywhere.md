@@ -12,9 +12,9 @@ Project lead, implementer, maintainer.
 
 ## Technology Used
 
-	- PHP
-	- SimpleSAMLphp
-	- Active Directory
+- PHP
+- SimpleSAMLphp
+- Active Directory
 
 ## Link to the Project Itself
 

@@ -14,11 +14,11 @@ Architected, built, and implemented the whole thing.
 
 ## Technology Used
 
-	- lighttpd
-	- PHP
-	- MySQL
-	- NFS
-	- MongoDB
+- lighttpd
+- PHP
+- MySQL
+- NFS
+- MongoDB
 
 ## Link to Source Code and/or the Project Itself
 

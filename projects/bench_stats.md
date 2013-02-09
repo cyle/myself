@@ -12,10 +12,10 @@ I built the server, installed Statsd, customized load reporting scripts, impleme
 
 ## Technology Used
 
-	- [Statsd](https://github.com/etsy/statsd)
-	- [Nagios](http://www.nagios.org/projects/nagioscore)
-	- Python
-	- good old HTML
+- [Statsd](https://github.com/etsy/statsd)
+- [Nagios](http://www.nagios.org/projects/nagioscore)
+- Python
+- good old HTML
 
 ## Link to the Project Itself
 

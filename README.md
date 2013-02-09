@@ -4,11 +4,11 @@ This repository is a project to chronicle myself. Really, to chronicle my work. 
 
 ## What's Here
 
-	- My [resume](RESUME.md)
-	- My [skills](SKILLS.md)
-	- My [current projects](CURRENT_PROJECTS.md)
-	- My [favorite projects](FAVORITE_PROJECTS.md)
-	- and all of my [projects](projects/) that I can think of
+- My [resume](RESUME.md)
+- My [skills](SKILLS.md)
+- My [current projects](CURRENT_PROJECTS.md)
+- My [favorite projects](FAVORITE_PROJECTS.md)
+- and all of my [projects](projects/) that I can think of
 	
 ## Learning More
 

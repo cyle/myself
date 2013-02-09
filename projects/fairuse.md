@@ -14,9 +14,9 @@ I built it, using the parameters laid out by the group.
 
 ## Technology Used
 
-	- good old HTML
-	- jQuery
-	- [Foundation](http://foundation.zurb.com/) framework
+- good old HTML
+- jQuery
+- [Foundation](http://foundation.zurb.com/) framework
 
 ## Link to Source Code and the Project Itself
 

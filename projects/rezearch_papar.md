@@ -12,7 +12,7 @@ I wrote it.
 
 ## Technology Used
 
-	- good old HTML
+- good old HTML
 
 ## Link to the Project Itself
 

@@ -12,8 +12,8 @@ I built it!
 
 ## Technology Used
 
-	- Processing
-	- Regular Expressions, yay!
+- Processing
+- Regular Expressions, yay!
 
 ## Link to Source Code and the Project Itself
 

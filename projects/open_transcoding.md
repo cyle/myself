@@ -14,11 +14,11 @@ I built it.
 
 ## Technology Used
 
-	- Debian, Ubuntu
-	- PHP
-	- node.js
-	- Bash scripting
-	- MongoDB
+- Debian, Ubuntu
+- PHP
+- node.js
+- Bash scripting
+- MongoDB
 
 ## Link to Source Code and/or the Project Itself
 

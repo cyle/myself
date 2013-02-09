@@ -12,9 +12,9 @@ I built or helped build them.
 
 ## Technology Used
 
-	- PHP
-	- MySQL
-	- Processing
+- PHP
+- MySQL
+- Processing
 
 ## Link to Source Code and the Projects Themselves
 

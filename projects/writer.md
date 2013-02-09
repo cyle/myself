@@ -12,8 +12,8 @@ I built it, and posted a couple poems on it.
 
 ## Technology Used
 
-	- PHP
-	- MySQL
+- PHP
+- MySQL
 
 ## Link to Source Code and/or the Project Itself
 

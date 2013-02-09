@@ -12,7 +12,8 @@ I built it, I write in it.
 
 ## Technology Used
 
-	- Wordpress
+- Wordpress
+- good old HTML
 
 ## Link to the Project Itself
 

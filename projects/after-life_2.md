@@ -14,8 +14,8 @@ I worked as programmer, level designer, writer, and director.
 
 ## Technology Used
 
-	- Valve Source SDK + tools
-	- Visual C++
+- Valve Source SDK + tools
+- Visual C++
 
 ## Link to the Project Itself
 

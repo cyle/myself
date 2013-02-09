@@ -12,9 +12,9 @@ I designed it and built it, and I still maintain it.
 
 ## Technology Used
 
-	- PHP
-	- Microsoft SQL
-	- custom data mining
+- PHP
+- Microsoft SQL
+- custom data mining
 
 ## Link to the Project Itself
 

@@ -14,8 +14,8 @@ Cinematographer.
 
 ## Technology Used
 
-	- Canon 7D
-	- custom-built camera rig
+- Canon 7D
+- custom-built camera rig
 
 ## Link to the Project Itself
 

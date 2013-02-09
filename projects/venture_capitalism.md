@@ -12,8 +12,8 @@ I wrote them.
 
 ## Technology Used
 
-	- good old HTML
-	- Google Web Fonts (for VC3)
+- good old HTML
+- Google Web Fonts (for VC3)
 
 ## Link to Source Code and/or the Project Itself
 

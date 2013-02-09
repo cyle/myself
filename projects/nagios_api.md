@@ -14,10 +14,10 @@ I built it and continue to use it a lot.
 
 ## Technology Used
 
-	- PHP
-	- Nagios
-	- MongoDB
-	- JSON
+- PHP
+- Nagios
+- MongoDB
+- JSON
 
 ## Link to Source Code and/or the Project Itself
 
