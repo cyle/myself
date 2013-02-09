@@ -1,0 +1,28 @@
+# Skillz
+
+- software/web development skills
+	- PHP
+	- Ruby
+	- node.js
+	- MySQL
+	- Microsoft SQL
+	- MongoDB
+	- Actionscript + MXML
+	- Client-side Javascript (prototype + jQuery)
+	- XHTML + HTML5
+	- CSS
+	- Processing + Processing.js
+	- Appcelerator + Rhomobile
+- server admin/architect skills
+	- Debian + Ubuntu + Red Hat
+	- Windows Server 2003 + 2008
+	- Bash + PowerShell
+	- lighttpd + Apache
+	- LDAP + Active Directory
+	- CDNs (Akamai)
+	- Amazon Web Services (S3, EC2, RDS, Beanstalk)
+- other stuff
+	- canon 7D / cinematography
+	- Valve Source SDK
+	- experimenting with C, C++, Obj-C
+	- brewing some damn good tea
