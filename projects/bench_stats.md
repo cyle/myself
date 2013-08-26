@@ -19,4 +19,4 @@ I built the server, installed Statsd, customized load reporting scripts, impleme
 
 ## Link to the Project Itself
 
-http://bench.emerson.edu/stats/
+[Check it out.](http://bench.emerson.edu/stats/) There's also an iPad/Retina version [here](http://bench.emerson.edu/stats/ipad.php).

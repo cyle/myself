@@ -4,6 +4,9 @@
 	- PHP
 	- Ruby
 	- node.js
+	- Go
+	- C/C++
+	- Obj-C
 	- MySQL
 	- Microsoft SQL
 	- MongoDB
@@ -15,14 +18,13 @@
 	- Appcelerator + Rhomobile
 - server admin/architect skills
 	- Debian + Ubuntu + Red Hat
-	- Windows Server 2003 + 2008
+	- Windows Server 2003 + 2008 + 2012
 	- Bash + PowerShell
-	- lighttpd + Apache
+	- lighttpd + Apache + nginx
 	- LDAP + Active Directory
 	- CDNs (Akamai)
 	- Amazon Web Services (S3, EC2, RDS, Beanstalk)
 - other stuff
 	- canon 7D / cinematography
 	- Valve Source SDK
-	- experimenting with C, C++, Obj-C
 	- brewing some damn good tea

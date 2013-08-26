@@ -21,4 +21,4 @@ I built it, I live it.
 
 ## Link to Source Code and/or the Project Itself
 
-http://cylesoft.com/
+[Visit the awesomeness.](http://cylesoft.com/)

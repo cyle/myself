@@ -6,7 +6,7 @@
 
 Emerson College IT, ITG, Media Services, and the Library got together to think of ways to better represent the struggle of Fair Use (see: use of copyright works in educational institutions) to Emerson faculty. The result was this site, which has information alongside a "Fair Use Utility" designed to help anyone go through a proper Fair Use analysis.
 
-The project is going to be presented at NERCOMP in Providence, RI in 2013.
+The project was presented at NERCOMP in Providence, RI in 2013. It also might be used by Yale for their faculty.
 
 ## My Role in the Project
 
