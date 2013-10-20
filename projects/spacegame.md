@@ -21,4 +21,4 @@ I'm building it.
 
 ## Link to Source Code and/or the Project Itself
 
-Not yet.
+The client can be found [here](https://github.com/cyle/spacegame-client) and the server can be found [here](https://github.com/cyle/spacegame-server). Very early alpha.
