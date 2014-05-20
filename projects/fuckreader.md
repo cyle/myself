@@ -15,7 +15,7 @@ I built it, of course. And I use it every damn day.
 ## Technology Used
 
 - PHP, HTML5, jQuery for the front-end
-- MySQL, heavily optimized, for the database-end
+- MySQL, heavily optimized, for the database-end (later replaced with MariaDB)
 - Ruby, for the feed ingest
 - the [Feedzirra](https://github.com/pauldix/feedzirra) library to help with RSS parsing
 

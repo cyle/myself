@@ -19,4 +19,4 @@ I worked as programmer, level designer, writer, and director.
 
 ## Link to the Project Itself
 
-http://cylegage.com/blackbox/wiki/index.php?title=After-Life_2
+http://cyle.tumblr.com/post/82052487537/after-life-2-complete-download

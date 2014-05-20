@@ -24,7 +24,15 @@
 	- LDAP + Active Directory
 	- CDNs (Akamai)
 	- Amazon Web Services (S3, EC2, RDS, Beanstalk)
+- those "soft" skills
+	- lead a lot of meetings, with agendas and follow-up notes
+	- know when *not* to have a meeting, or when to have a very short one
+	- writing policies, both for public and internal use
+	- writing documentation, a lot of it, for public or internal use
+	- working cross-departmentally / cross-disciplinary
+	- communicating with people who know nothing about technology
+	- communicating with people who know a lot more than me about technology
 - other stuff
-	- canon 7D / cinematography
+	- canon 7D / canon 5D mk3 / cinematography
 	- Valve Source SDK
 	- brewing some damn good tea
